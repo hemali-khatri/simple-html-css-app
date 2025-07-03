@@ -1,0 +1,15 @@
+{
+  "name": "simple-html-css-app",
+  "version": "1.0.0",
+  "description": "A simple HTML/CSS application for CI/CD demonstration.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "hemali-khatri",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
